@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+/* -----============ */
+.crypto-card{
+  min-width: 250px;
+}
+.crypto-card .crypto-image{
+  width:35px;
+}
+
+.footer {
+  background-color: #001529;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}
